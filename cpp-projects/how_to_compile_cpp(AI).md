@@ -8,6 +8,7 @@ Write your code and save it as a file ending in **.cpp** (e.g., `main.cpp`).
 
 Open your terminal and run:
 **g++ main.cpp -o my_app**
+**g++ -std=c++23 main.cpp -o my_app** (speficy which version to use)
 
 ### 3. Run
 
